@@ -7,7 +7,7 @@
 
   <groupId>org.openmicroscopy</groupId>
   <artifactId>ome-jai</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1-SNAPSHOT</version>
 
   <name>OME JAI</name>
   <description>Fork of Java Advanced Imaging ImageIO (deprecated).</description>
